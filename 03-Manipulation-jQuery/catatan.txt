@@ -1,0 +1,36 @@
+
+1. Class attribute
+- addClass()
+- hasClass()
+- removeClass()
+- toggleClass()
+
+2. Attribute
+- attr()
+- html()
+- prop()       -> sama seperti attr untuk mengetahui attribute
+- removeAttr()
+- removeProp() -> sama seperti attr untuk mengetahui attribute
+- val()
+- append()     -> tidak dapat digunakan untuk elemen yang tidak punya isi konten seperti img hr br
+- prepend()    -> tidak dapat digunakan untuk elemen yang tidak punya isi konten seperti img hr br
+- after()
+- before()  
+- remove()     -> menghapus seluruh elemen dan isi
+- empty()      -> menghapus isinya saja tidak denan elemen
+- text()       -> untuk mendapatkan dan menetapkan isi text dari elemen
+- odd()        -> untuk menyeleksi elemen genap
+- even()       -> untuk menyeleksi elemen ganjil
+
+3. CSS
+- css()
+- height()
+- innerHeight()
+- innerWidth()
+- offset()
+- outerWidth()
+- outerHeight()
+- position()
+- scrollLeft()
+- scrollTop()
+- width()

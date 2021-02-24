@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    list-style-type: none;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    max-width: 100%;
+}
+
+button,
+input {
+    font-family: inherit;
+    display: block;
+}
+
+button {
+    cursor: pointer;
+    background-color: rgb(129, 129, 129);
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.tambahClass {
+    background-color: aqua;
+}
+
+.hapus {
+    background-color: blueviolet;
+}
+
+.active {
+    background-color: blue;
+}
+
+.kotak {
+    border: solid 2px black;
+    padding: 2rem;
+    background-color: aquamarine;
+}

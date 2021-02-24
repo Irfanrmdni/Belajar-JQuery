@@ -1,0 +1,2 @@
+Event pada jQuery adalah sebuah method atau aksi yang dilakukan pada jQuery
+dan merupakan aksi lanjutan setelah menetapkan selector

@@ -1,0 +1,23 @@
+
+Selector pada JQuery digunakan untuk memilih elemen atau objek berdasarkan tag id class dan attribut
+yang akan dimanipulasi
+
+1. Selector Tag
+- h1 , p div , span dan lainnya
+contoh -> $('h1').css('color','blue');
+
+2. Selector class
+contoh -> $('.judul').css('background-color','blue');
+
+3. Selector Id
+contoh -> $('#judul').css('background-color','blue');
+
+4. Selector Gabungan
+contoh -> $('.judul,#judul,h1').css('background-color','blue');
+
+5. Selector lainnya
+- $("[href]") , $(":button") , $("tr:even") , $("*") , $(this)
+
+contoh -> $("p:first").css('background-color','blue');
+contoh -> $("ul li:first").css('background-color','blue');
+contoh -> $("ul li:first-child").css('background-color','blue');

@@ -1,0 +1,27 @@
+
+Jenis effect pada jQuery
+
+Standar
+1. Show()
+2. Hide()
+
+fading
+1. FadeIn()
+2. FadeOut()
+3. FadeToggle()
+4. FadeTo()
+
+Sliding
+1. SlideUp()
+2. SlideDown()
+3. SlideToggle()
+
+Custom
+1. Animate()
+2. ClearQueue()
+3. Delay()
+4. Dequeue()
+5. Queue()
+6. Stop()
+
+value nya : "normal" , "slow" , "fast" , "milisecond"
